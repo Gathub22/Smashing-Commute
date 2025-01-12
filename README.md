@@ -1,8 +1,12 @@
 # Smashing Commute ![Nissan_player](https://github.com/user-attachments/assets/8a5044ae-9a17-46b1-9f9b-ae2fc1b05490)
 ![Background](https://github.com/user-attachments/assets/fb721766-33f2-46fc-9017-88ccd193e89c)
+[![Video](https://i.ytimg.com/vi/Whva3HjrprA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGsgayhrMA8=&rs=AOn4CLANP-P3XqI5fhJQ_ZTzs2vJIa-Zhg)](https://youtu.be/Whva3HjrprA)
+
+An arcade destruction racing tech demo made in Unity as an academic project. Race to the finish line and raze the road!
 
 
-An arcade destruction racing tech demo made in Unity as an academic project.
+[![badge-color](https://github.com/user-attachments/assets/592b5b1c-efe8-4af3-970d-d96965bf1ac4)](https://rgatob.itch.io/smashing-commute)
+
 
 See [CREDITS.md](CREDITS.md)
 
